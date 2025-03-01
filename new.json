@@ -1,18 +1,6 @@
-{     
-
-
-
-
-
-	"Egiazaryan Anna Samvelovna" , "35 let", "domashnih jivotnih net", "jelaemaia zarplata ne menee 100 000 rub"
-
-
-
-
-
-
-
-
-
-  
-         }
+{
+    "Name": "Egiazaryan Anna Samvelovna",
+    "Ege": 35,
+    "Pets": "domashnih jivotnih net",
+    "Salary": "jelaemaia zarplata ne menee 100 000 rub"
+}
